@@ -41,10 +41,10 @@ To run this site locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio-resume.git
+git clone https://github.com/gabrielwaters-create/Personal-Webpage-Resume.git
 
 # Open the site
-cd portfolio-resume
+cd Personal-Webpage-Resume
 open index.html   # or double-click index.html
 ```
 
